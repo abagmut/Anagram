@@ -1,0 +1,16 @@
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspective 
+*.perspectivev3
+*.pyc 
+*~.nib/
+*.xcuserdata
+xcuserdata
+build/
+prj/.idea
+DerivedData/
+*.swp
+*.moved-aside
+
+.DS_Store
